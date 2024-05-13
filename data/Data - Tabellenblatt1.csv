@@ -1,0 +1,377 @@
+Animal,Animal Identifcation,Year,Threat Categories (Impact)
+"Pig-footed Bandicoot
+(Chaeropus ecaudatus)",Mammals,1901,"Agriculture and Aquaculture (1)
+Problem and Invasive Species, Genes and Disease (6)"
+"Greater Amakihi
+(Viridonia sagittirostris)",Birds,1901,Agriculture and Aquaculture (5)
+"Auckland Merganser
+(Mergus australis)",Birds,1902,"Biological Resource Use (4)
+Problem and Invasive Species, Genes and Disease (0)"
+"North Island Piopio
+(Turnagra tanagra)",Birds,1902,"Agriculture and Aquaculture (0)
+Biological Resource Use (0)
+Problem and Invasive Species, Genes and Disease (0)"
+"Long-tailed Hopping-mouse
+(Notomys longicaudatus)",Mammals,1902,"Problem and Invasive Species, Genes and Disease (6)"
+"Guadalupe Caracara
+(Caracara lutosa)",Birds,1903,"Agriculture and Aquaculture (4)
+Biological Resource Use (6)"
+"Choiseul Pigeon
+(Microgoura meeki)",Birds,1904,"Problem and Invasive Species, Genes and Disease (5)"
+"Maclear's Rat
+(Rattus macleari)",Mammals,1904,"Problem and Invasive Species, Genes and Disease (6)"
+"South Island Piopio
+(Turnagra capensis)",Birds,1905,"Problem and Invasive Species, Genes and Disease (6)"
+"Chatham Bellbird
+(Anthornis melanocephala)",Birds,1906,"Biological Resource Use (0)
+Problem and Invasive Species, Genes and Disease (0)"
+"Black Mamo
+(Drepanis funerea)",Birds,1907,"Agriculture and Aquaculture (0)
+Problem and Invasive Species, Genes and Disease (0)"
+"Huia
+(Heteralocha acutirostris)",Birds,1907,"Biological Resource Use (0)
+Problem and Invasive Species, Genes and Disease (0)"
+"Robust White-eye
+(Zosterops strenuus)",Birds,1908,"Problem and Invasive Species, Genes and Disease (6)"
+"Slender-billed Grackle
+(Quiscalus palustris)",Birds,1910,Agriculture and Aquaculture (6)
+"Cape Verde Giant Skink
+(Chioninia coctei)",Reptiles,1912,"Biological Resource Use (0)
+Problem and Invasive Species, Genes and Disease (4)"
+"Canarian Oystercatcher
+(Haematopus meadewaldoi)",Birds,1913,"Biological Resource Use (0)
+Human Intrusions and Disturbance (0)
+Problem and Invasive Species, Genes and Disease (0)"
+"Passenger Pigeon
+(Ectopistes migratorius)",Birds,1914,"Agriculture and Aquaculture (0)
+Biological Resource Use (0)
+Problem and Invasive Species, Genes and Disease (4)"
+"Laughing Owl
+(Sceloglaux albifacies)",Birds,1914,"Agriculture and Aquaculture (0)
+Natural Systems Modifcations(0)
+Problem and Invasive Species, Genes and Disease (0)"
+"Carolina Parakeet
+(Conuropsis carolinensis)",Birds,1918,"Residential and Commercial Development(0)
+Biological Resource Use (0)
+Problem and Invasive Species, Genes and Disease (4)"
+"Lanai Hookbill
+(Dysmorodrepanis munroi)",Birds,1918,"Agriculture and Aquaculture(0)
+Problem and Invasive Species, Genes and Disease (0)"
+Coregonus fera,Fish,1920,"Biological Resource Use (0)
+Pollution (0)"
+"Red-moustached Fruit-dove
+(Ptilinopus mercierii)",Birds,1922,"Problem and Invasive Species, Genes and Disease (5)"
+"Norfolk Starling
+(Aplonis fusca)",Birds,1923,"Biological Resource Use (0)
+Problem and Invasive Species, Genes and Disease (5)"
+"Laysan Honeycreeper
+(Himatione fraithii)",Birds,1923,"Problem and Invasive Species, Genes and Disease (5)"
+"Thick-billed Ground-dove
+(Alopecoenas salamonis)",Birds,1927,"Agriculture and Aquaculture (1)
+Biological Resource Use (1)
+ Problem and Invasive Species, Genes and Disease (2)"
+"Utah Lake Sculpin
+(Cottus echinatus)",Fish,1928,"Problem and Invasive Species, Genes and Disease (0)
+Geological Events (0)
+Climate Change and Severe Weather (0)"
+"Lord Howe Gerygone
+(Gerygone insularis)",Birds,1928,"Problem and Invasive Species, Genes and Disease (5)"
+"Paradise Parrot
+(Psephotellus pulcherrimus)",Birds,1928,"Agriculture and Aquaculture (0)
+Biological Resource Use (0)
+Natural Systems Modifcations (0)
+Problem and Invasive Species, Genes and Disease (0)
+Climate Change and Severe Weather (4)"
+"Eastwood's Longtailed Seps
+(Tetradactylus eastwood)",Reptiles,1928,"Residential and Commercial Development (0)
+Agriculture and Aquaculture (0)
+Natural Systems Modifcations (0)"
+"Oahu Akepa
+(Loxops wolstenholmei)",Birds,1930,"Agriculture and Aquaculture (3)
+Problem and Invasive Species, Genes and Disease (5)"
+"Darwin's Galapagos Mouse
+(Nesoryzomys darwini)",Mammals,1930,"Problem and Invasive Species, Genes and Disease (0)"
+"Yallara
+(Macrotis leucura)",Mammals,1931,"Natural Systems Modifcations (4)
+Problem and Invasive Species, Genes and Disease (6)"
+"Kuluwarri
+(Lagorchestes asomatus)",Mammals,1932,"Natural Systems Modifcations (4)
+Problem and Invasive Species, Genes and Disease (6)"
+"Desert Bettong
+(Bettongia anhydra)",Mammals,1933,"Natural Systems Modifcations (4)
+Problem and Invasive Species, Genes and Disease (6)"
+"Lesser Stick-nest Rat
+(Leporillus apicalis)",Mammals,1933,"Agriculture and Aquaculture (5)
+Problem and Invasive Species, Genes and Disease (6)"
+"New Zealand Grayling 
+(Prototroctes oxyrhynchus)",Fish,1933,"Residential and Commercial Development (0)
+Biological Resource Use (5)
+Problem and Invasive Species, Genes and Disease (5)"
+"Hawaii Oo
+(Moho nobilis)",Birds,1934,"Biological Resource Use (0) 
+Problem and Invasive Species, Genes and Disease (0)"
+"Indefatigable Galapagos Mouse 
+(Nesoryzomys indefessus)",Mammals,1934,"Problem and Invasive Species, Genes and Disease (0)"
+"Desert Rat Kangaroo
+(Caloprymnus campestris)",Mammals,1935,"Problem and Invasive Species, Genes and Disease (0)"
+"Tahiti Rail
+(Hypotaenidia pacifica)",Birds,1935,"Problem and Invasive Species, Genes and Disease (5)"
+"Nuku Hiva Monarch
+(Pomarea nukuhivae)",Birds,1935,"Natural Systems Modifications (3)
+Problem and Invasive Species, Genes and Disease (5)"
+"Ryukyu Woodpigeon
+(Columba jouyi)",Birds,1936,"Problem and Invasive Species, Genes and Disease (0)
+Biological Resource Use (6)"
+"Thylacine
+(Thylacinus cynocephalus)",Mammals,1936,"Agriculture and Aquaculture (4)
+Biological Resource Use (4)"
+"Marquesan Swamphen
+(Porphyrio paepae)",Birds,1937,"Biological Resource Use  (5)
+Problem and Invasive Species, Genes and Disease (5)"
+Salmo pallaryi,Fish,1937,"Problem and Invasive Species, Genes and Disease (0)"
+"Pahranagat Spinedace
+(Lepidomeda altivelis)",Fish,1938,"Problem and Invasive Species, Genes and Disease (0)"
+"Schomburgk's Deer
+(Rucervus schomburgki)",Mammals,1938,"Agriculture and Aquaculture (0)
+Biological Resource Use  (0)"
+"Grand Cayman rush
+(Turdus ravidus)",Birds,1938,Biological Resource Use (0)
+"Toolache Wallaby
+(Macropus greyi)",Mammals,1939,"Agriculture and Aquaculture (6)
+Biological Resource Use (5)"
+"Hawaii Akialoa
+(Akialoa obscura)",Birds,1940,"Agriculture and Aquaculture (0)
+Biological Resource Use (0)
+Problem and Invasive Species, Genes and Disease (5)"
+"Las Vegas Leopard Frog
+(Lithobates sheri)",Amphibians,1942,"Natural Systems Modications (0)
+Problem and Invasive Species, Genes and Disease (0)"
+"Desert Bandicoot
+(Perameles eremiana)",Mammals,1943,"Natural Systems Modications (0)
+Biological Resource Use (0)
+Problem and Invasive Species, Genes and Disease (0)"
+"Laysan Rail
+(Zapornia palmeri)",Birds,1944,"Problem and Invasive Species, Genes and Disease (3)
+Climate Change and Severe Weather (3)"
+"Wake Rail
+(Hypotaenidia wakensis)",Birds,1945,"Biological Resource Use (6)
+Climate Change and Severe Weather (1)"
+"Crescent Nailtail Wallaby
+(Onychogalea lunata)",Mammals,1945,"Agriculture and Aquaculture (2)
+Natural Systems Modifications (3)
+Problem and Invasive Species, Genes and Disease (6)"
+"Ash Meadows Poolfish
+(Empetrichthys merriami)",Fish,1948,"Natural Systems Modifications (0) 
+Problem and Invasive Species, Genes and Disease (0)"
+"Queen of Sheba's Gazelle
+(Gazella bilkis)",Mammals,1951,Biological Resource Use (0)
+"Japanese Sea Lion
+(Zalophus japonicus)",Mammals,1951,Biological Resource Use (6)
+"Caribbean Monk Seal
+(Neomonachus tropicalis)",Mammals,1952,Biological Resource Use (0)
+Tristramella magdelainae,Fish,1955,"Natural Systems Modifications (0) 
+Climate Change and Severe Weather (0)"
+"Little Swan Island Hutia
+(Geocapromys thoracatus)",Mammals,1955,"Problem and Invasive Species, Genes and Disease (0)
+Climate Change and Severe Weather (0)"
+Atelopus vogli,Amphibians,1957,Agriculture and Aquaculture (0)
+"Thicktail Chub
+(Gila crassicauda)",Fish,1957,"Natural Systems Modifications (6)
+Problem and Invasive Species, Genes and Disease (6)"
+"Candango Mouse
+(Juscelinomys candango)",Mammals,1960,Residential and Commercial Development (0)
+"Gracile Mouse Opossum
+(Cryptonanus ignitus)",Mammals,1962,"Agriculture and Aquaculture (0)
+Biological Resource Use (0)"
+Ptychochromis onilahy,Fish,1962,"Biological Resource Use (0)
+Problem and Invasive Species, Genes and Disease (0)"
+"Barbados Racer
+(Erythrolamprus perfuscus)",Reptiles,1963,"Residential and Commercial Development (0)
+Problem and Invasive Species, Genes and Disease (6)"
+Pantanodon madagascariensis,Fish,1963,"Agriculture and Aquaculture (0)
+Biological Resource Use (0)
+Problem and Invasive Species, Genes and Disease (5)"
+"Kakawahie
+(Paroreomyza flammea)",Birds,1963,"Biological Resource Use (0) 
+Problem and Invasive Species, Genes and Disease (5)"
+"South Island Snipe
+(Coenocorypha iredalei)",Birds,1964,"Problem and Invasive Species, Genes and Disease (4)"
+"Ainsworth's Salamander
+(Plethodon ainsworthi)",Amphibians,1964,Biological Resource Use (0)
+Gasterosteus crenobiontus,Fish,1965,"Problem and Invasive Species, Genes and Disease (0)"
+"Guam Flying Fox
+(Pteropus tokudae)",Mammals,1968,"Biological Resource Use (0)
+Problem and Invasive Species, Genes and Disease (0)"
+"Guam Reed-warbler
+(Acrocephalus luscinius)",Birds,1969,"Residential and Commercial Development (2)
+Agriculture and Aquaculture (2)
+Natural Systems Modifications (2)
+Problem and Invasive Species, Genes and Disease (6)
+Geological Events (3)"
+"Kauai Akialoa
+(Akialoa stejnegeri)",Birds,1969,"Biological Resource Use (4)
+Problem and Invasive Species, Genes and Disease (5)
+Climate Change and Severe Weather (0)"
+"Blackfin Cisco
+(Coregonus nigripinnis)",Fish,1969,"Biological Resource Use (0)
+Problem and Invasive Species, Genes and Disease (0)"
+"Clear Lake Splittail
+(Pogonichthys ciscoides)",Fish,1970,"Natural Systems Modifications (0)
+Problem and Invasive Species, Genes and Disease (0)
+Pollution (0)"
+"Santa Cruz Pupfish
+(Cyprinodon arcuatus)",Fish,1971,"Natural Systems Modifications (0)
+Problem and Invasive Species, Genes and Disease (0)"
+"Bushwren
+(Xenicus longipes)",Birds,1972,"Problem and Invasive Species, Genes and Disease (4)"
+"Bar-winged Rail
+(Hypotaenidia poeciloptera)",Birds,1973,"Problem and Invasive Species, Genes and Disease (0)"
+"Pagan Reed-warbler
+(Acrocephalus yamashinae)",Birds,1973,"Residential and Commercial Development (2)
+Agriculture and Aquaculture (2)
+Natural Systems Modifications (2)
+Problem and Invasive Species, Genes and Disease (5)
+Geological Events (3)"
+Coregonus gutturosus,Fish,1973,Pollution (0)
+"Hula Bream
+(Mirogrex hulensis)",Fish,1975,Natural Systems Modifications (0)
+"Phantom Shiner
+(Notropis orca)",Fish,1975,"Natural Systems Modifications (0)
+Problem and Invasive Species, Genes and Disease (0)
+Pollution (0)
+"
+Tristramella intermedia,Fish,1975,Natural Systems Modifications (0)
+Contomastix charrua,Reptiles,1977,"Residential and Commercial Development (0)
+Problem and Invasive Species, Genes and Disease (0)"
+"Colombian Grebe
+(Podiceps andinus)",Birds,1977,"Agriculture and Aquaculture (5)
+Biological Resource Use (5)
+Natural Systems Modifications (5)
+Problem and Invasive Species, Genes and Disease (5)
+Pollution (5)
+"
+"Eiao Monarch
+(Pomarea fluxa)",Birds,1977,"Agriculture and Aquaculture (3)
+Problem and Invasive Species, Genes and Disease (5)"
+"Siamese flat-barbelled catfish
+(Platytropius siamensis)",Fish,1977,"Natural Systems Modifications (6)
+Pollution (4)"
+"Yunnan Lake Newt
+(Hypselotriton wolterstorffi)",Amphibians,1979,"Agriculture and Aquaculture (0)
+Biological Resource Use (0)
+Problem and Invasive Species, Genes and Disease (0)
+Pollution (0)"
+"Mount Glorious Day Frog
+(Taudactylus diurnus)",Amphibians,1979,"Residential and Commercial Development (0)
+Energy Production and Mining (0)
+Biological Resource Use (0)
+Human Intrusions and Disturbance (0)
+Natural Systems Modifications (0)
+Problem and Invasive Species, Genes and Disease (0)
+Pollution (0)"
+"Gölçük Toothcarp
+(Aphanius splendens)",Fish,1980,"Problem and Invasive Species, Genes and Disease (0)"
+Anabarilius macrolepis,Fish,1981,"Natural Systems Modifications (6)
+Pollution (0)"
+Cyprinus yilongensis,Fish,1981,"Biological Resource Use (4)
+Natural Systems Modifications (6)
+Pollution (4)"
+"Bishop's Oo
+(Moho bishopi)",Birds,1981,"Agriculture and Aquaculture (5)
+Problem and Invasive Species, Genes and Disease (5)
+"
+"Alaotra Grebe
+(Tachybaptus rufolavatus)",Birds,1982,"Agriculture and Aquaculture (3)
+Biological Resource Use (4)
+Problem and Invasive Species, Genes and Disease (6)
+Pollution (4)"
+"San Marcos Gambusia
+(Gambusia georgei)",Fish,1983,"Natural Systems Modifications (6)
+Problem and Invasive Species, Genes and Disease (6)
+Pollution (0)"
+"Guam Flycatcher
+(Myiagra freycineti)",Birds,1983,"Problem and Invasive Species, Genes and Disease (6)"
+"Aldabra Brush-warbler
+(Nesillas aldabrana)",Birds,1983,"Problem and Invasive Species, Genes and Disease (5)"
+"Southern Gastric Brooding Frog
+(Rheobatrachus silus)",Amphibians,1983,"Residential and Commercial Development (0)
+Agriculture and Aquaculture (0)
+Biological Resource Use (0)
+Natural Systems Modifications (0)
+Problem and Invasive Species, Genes and Disease (0)
+Pollution (0)"
+"Bridled White-eye
+(Zosterops conspicillatus)",Birds,1983,"Problem and Invasive Species, Genes and Disease (0)"
+"Kamao
+(Myadestes myadestinus)",Birds,1985,"Agriculture and Aquaculture (4)
+Problem and Invasive Species, Genes and Disease (3)
+Climate Change and Severe Weather (5)"
+"Eungella Gastric Brooding Frog
+(Rheobatrachus vitellinus)",Amphibians,1985,"Residential and Commercial Development (0)
+Agriculture and Aquaculture (0)
+Biological Resource Use (0)
+Problem and Invasive Species, Genes and Disease (0)
+Pollution (0)"
+"Saudi Gazelle
+(Gazella saudiya)",Mammals,1985,Biological Resource Use (0)
+"Egirdir Minnow
+(Pseudophoxinus handlirschi)",Fish,1985,"Problem and Invasive Species, Genes and Disease (0)"
+"Heredia Robber Frog
+(Craugastor escoces)",Amphibians,1986,"Problem and Invasive Species, Genes and Disease (0)
+Climate Change and Severe Weather (0)"
+"Maryland Darter
+(Etheostoma sellare)",Fish,1986,"Natural Systems Modifications (0)
+Pollution (0)"
+"Atitlan Grebe
+(Podilymbus gigas)",Birds,1986,"Biological Resource Use (3)
+Human Intrusions and Disturbance (4)
+Problem and Invasive Species, Genes and Disease (3)
+Geological Events (5)"
+"Kauai Oo
+(Moho braccatus)",Birds,1987,"Biological Resource Use (6)
+Problem and Invasive Species, Genes and Disease (6)
+Climate Change and Severe Weather (5)"
+"Least Vermilion Flycatcher
+(Pyrocephalus dubius)",Birds,1987,"Problem and Invasive Species, Genes and Disease (6)"
+"Amistad Gambusia
+(Gambusia amistadensis)",Fish,1987,Natural Systems Modifications (6)
+"Telestes ukliva",Fish,1988,"
+Natural Systems Modifications (0)
+Problem and Invasive Species, Genes and Disease (0)"
+"Longnose Harlequin Frog
+(Atelopus longirostris)",Amphibians,1989,"Residential and Commercial Development (0)
+Agriculture and Aquaculture (0)
+Biological Resource Use (0)
+Problem and Invasive Species, Genes and Disease (0)
+Pollution (0)
+Climate Change and Severe Weather (0)"
+"Golden Toad
+(ncilius periglenes)",Amphibians,1989,"Problem and Invasive Species, Genes and Disease (0)
+Pollution (0)
+Climate Change and Severe Weather (0)"
+"McCranie's Robber Frog
+(Craugastor chrysozetetes)",Amphibians,1989,"Residential and Commercial Development (0)
+Agriculture and Aquaculture (0)
+Biological Resource Use (0)
+Natural Systems Modifications (0)
+Problem and Invasive Species, Genes and Disease (0)
+Pollution (0)
+Geological Events (0)
+Climate Change and Severe Weather (0)"
+"Aguijan Reed-warbler
+(Acrocephalus nijoi)",Birds,1995,"Residential and Commercial Development (2)
+Agriculture and Aquaculture (2)
+Natural Systems Modifications (2)
+Problem and Invasive Species, Genes and Disease (5)
+Geological Events (3)"
+"Beysehir Bleak
+(Alburnus akili)",Fish,1998,"Biological Resource Use (0)
+Problem and Invasive Species, Genes and Disease (0)"
+"Bramble Cay Melomys
+(Melomys rubicola)",Mammals,2009,Climate Change and Severe Weather (6)
+"Pinta Giant Tortoise
+(Chelonoidis abingdonii)",Reptiles,2012,"Biological Resource Use (6)
+Problem and Invasive Species, Genes and Disease (3)"
+"Christmas Island Whiptail-skink
+(Emoia nativitatis)",Reptiles,2014,"Energy Production and Mining (0)
+Problem and Invasive Species, Genes and Disease (5)"
